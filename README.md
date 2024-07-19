@@ -11,10 +11,8 @@ This is a 30-days javascript grinding
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
@@ -22,7 +20,7 @@ This project implements an interactive drum kit using HTML, CSS, and JavaScript.
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./day1_Drum_Kit/screenshot.png)
 
 ### Links
 
@@ -46,20 +44,33 @@ This project implements an interactive drum kit using HTML, CSS, and JavaScript.
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<div data-key="65" class="key">
+      <kbd>A</kbd>
+      <span class="sound">clap</span>
+</div>
 ```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+kbd represents a span of inline text denoting textual user input from a keyboard, voice input, or any other text entry device.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+to use made up html attribute, for example data-key here, you just have to prefix them with data-
+
+```css
+.key {
+  transition: all .07s ease;
+}
+```
+look it up on mdn
+
+```js
+const removeTransition = (e) => {
+    if(e.propertyName !== 'transform') return; 
+    
+    e.target.classList.remove('playing');
+}
+
+const keys = document.querySelectorAll('.key')
+keys.forEach(key => key.addEventListener('transitionend', removeTransition))
+```
+transitionend event
 
 
 
