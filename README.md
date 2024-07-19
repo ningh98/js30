@@ -2,7 +2,7 @@
 
 This is a 30-days javascript grinding  
 1.drum-kit: [https://github.com/ningh98/js30]  
-2.clock: [https://ningh98.github.io/js30_CSS-JS_Clock/]
+2.clock: [https://github.com/ningh98/js30_CSS-JS_Clock]
 
 ## Table of contents
 
