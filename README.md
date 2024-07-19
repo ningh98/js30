@@ -1,7 +1,7 @@
 # js30
 
-
 This is a 30-days javascript grinding
+1.drum-kit: [https://github.com/ningh98/js30]
 
 ## Table of contents
 
@@ -20,12 +20,11 @@ This project implements an interactive drum kit using HTML, CSS, and JavaScript.
 
 ### Screenshot
 
-![](./day1_Drum_Kit/screenshot.png)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ningh98.github.io/js30/]
 
 ## My process
 
@@ -39,9 +38,6 @@ This project implements an interactive drum kit using HTML, CSS, and JavaScript.
 
 ### What I learned
 
-
-
-To see how you can add code snippets, see below:
 
 ```html
 <div data-key="65" class="key">
