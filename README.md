@@ -5,7 +5,8 @@ This is a 30-days javascript grinding
 2.clock: [https://github.com/ningh98/js30_CSS-JS_Clock]  
 3. CSS variable with JS [https://github.com/ningh98/CSS_variable_with_JS]  
 4. js array practice [https://github.com/ningh98/js_array]  
-5. Flex Panels Image Gallery [https://github.com/ningh98/flex_gallery]
+5. Flex Panels Image Gallery [https://github.com/ningh98/flex_gallery]  
+6. Ajax type ahead [https://github.com/ningh98/ajax_type_ahead]
 
 ## Table of contents
 
