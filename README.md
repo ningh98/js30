@@ -7,7 +7,8 @@ This is a 30-days javascript grinding
 4. js array practice [https://github.com/ningh98/js_array]  
 5. Flex Panels Image Gallery [https://github.com/ningh98/flex_gallery]  
 6. Ajax type ahead [https://github.com/ningh98/ajax_type_ahead]  
-7. js array practice 2 [https://github.com/ningh98/js_array2]
+7. js array practice 2 [https://github.com/ningh98/js_array2]  
+8. html canvas [https://github.com/ningh98/js30_CSS-JS_Clock]
 
 ## Table of contents
 
