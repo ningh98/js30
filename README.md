@@ -9,7 +9,8 @@ This is a 30-days javascript grinding
 6. Ajax type ahead [https://github.com/ningh98/ajax_type_ahead]  
 7. js array practice 2 [https://github.com/ningh98/js_array2]  
 8. html canvas [https://github.com/ningh98/HTML_canvas]  
-9. js dev tool tips [https://github.com/ningh98/js_dev_tool_tips]
+9. js dev tool tips [https://github.com/ningh98/js_dev_tool_tips]  
+10. Hold_Shift_Check_Checkboxes [https://github.com/ningh98/Hold_Shift_Check_Checkboxes]
 
 ## Table of contents
 
