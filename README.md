@@ -11,7 +11,8 @@ This is a 30-days javascript grinding
 8. html canvas [https://github.com/ningh98/HTML_canvas]  
 9. js dev tool tips [https://github.com/ningh98/js_dev_tool_tips]  
 10. Hold_Shift_Check_Checkboxes [https://github.com/ningh98/Hold_Shift_Check_Checkboxes]  
-11. Custome_video_player [https://github.com/ningh98/custome_video_player]
+11. Custome_video_player [https://github.com/ningh98/custome_video_player]  
+12. Key Sequence Detection [https://github.com/ningh98/key_sequence_detection]
 
 ## Table of contents
 
