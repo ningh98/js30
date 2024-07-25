@@ -13,7 +13,8 @@ This is a 30-days javascript grinding
 10. Hold_Shift_Check_Checkboxes [https://github.com/ningh98/Hold_Shift_Check_Checkboxes]  
 11. Custome_video_player [https://github.com/ningh98/custome_video_player]  
 12. Key Sequence Detection [https://github.com/ningh98/key_sequence_detection]  
-13. Slide in on Scroll [https://github.com/ningh98/slide_in_on_scroll]
+13. Slide in on Scroll [https://github.com/ningh98/slide_in_on_scroll]  
+14. Object and Arrays -- reference vs copy[https://github.com/ningh98/ObjectAndArrays-reference_vs_copy]
 
 ## Table of contents
 
