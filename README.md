@@ -17,7 +17,8 @@ This is a 30-days javascript grinding
 14. Object and Arrays -- reference vs copy[https://github.com/ningh98/ObjectAndArrays-reference_vs_copy]  
 15. LocalStorage_and_EventDelegation [https://github.com/ningh98/LocalStorage_and_EventDelegation]  
 16. Mouse move shadow [https://github.com/ningh98/Mouse_move_shadow]  
-17. Sort without articles [https://github.com/ningh98/sort_without_articles]
+17. Sort without articles [https://github.com/ningh98/sort_without_articles]  
+18. Adding_up_times_with_reduce [https://github.com/ningh98/Adding_up_times_with_reduce]
 
 ## Table of contents
 
