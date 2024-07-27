@@ -14,7 +14,9 @@ This is a 30-days javascript grinding
 11. Custome_video_player [https://github.com/ningh98/custome_video_player]  
 12. Key Sequence Detection [https://github.com/ningh98/key_sequence_detection]  
 13. Slide in on Scroll [https://github.com/ningh98/slide_in_on_scroll]  
-14. Object and Arrays -- reference vs copy[https://github.com/ningh98/ObjectAndArrays-reference_vs_copy]
+14. Object and Arrays -- reference vs copy[https://github.com/ningh98/ObjectAndArrays-reference_vs_copy]  
+15. LocalStorage_and_EventDelegation [https://github.com/ningh98/LocalStorage_and_EventDelegation]  
+16. Mouse move shadow [https://github.com/ningh98/Mouse_move_shadow]
 
 ## Table of contents
 
