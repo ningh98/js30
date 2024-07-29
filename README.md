@@ -20,7 +20,8 @@ This is a 30-days javascript grinding
 17. Sort without articles [https://github.com/ningh98/sort_without_articles]  
 18. Adding_up_times_with_reduce [https://github.com/ningh98/Adding_up_times_with_reduce]  
 19. Webcame [https://github.com/ningh98/webcam]  
-20. speech detection [https://github.com/ningh98/speech_detection]
+20. speech detection [https://github.com/ningh98/speech_detection]  
+21. Geolocation_based_Speedometer_and_Compass [https://github.com/ningh98/Geolocation_based_Speedometer_and_Compass]
 
 ## Table of contents
 
