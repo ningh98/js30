@@ -19,7 +19,8 @@ This is a 30-days javascript grinding
 16. Mouse move shadow [https://github.com/ningh98/Mouse_move_shadow]  
 17. Sort without articles [https://github.com/ningh98/sort_without_articles]  
 18. Adding_up_times_with_reduce [https://github.com/ningh98/Adding_up_times_with_reduce]  
-19. Webcame [https://github.com/ningh98/webcam]
+19. Webcame [https://github.com/ningh98/webcam]  
+20. speech detection [https://github.com/ningh98/speech_detection]
 
 ## Table of contents
 
