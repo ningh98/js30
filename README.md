@@ -22,7 +22,8 @@ This is a 30-days javascript grinding
 19. Webcame [https://github.com/ningh98/webcam]  
 20. speech detection [https://github.com/ningh98/speech_detection]  
 21. Geolocation_based_Speedometer_and_Compass [https://github.com/ningh98/Geolocation_based_Speedometer_and_Compass]  
-22. Follow_along_links [https://github.com/ningh98/Follow_along_links]
+22. Follow_along_links [https://github.com/ningh98/Follow_along_links]  
+23. Speech_Synthesis [https://github.com/ningh98/Speech_Synthesis]
 
 ## Table of contents
 
