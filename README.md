@@ -24,7 +24,8 @@ This is a 30-days javascript grinding
 21. Geolocation_based_Speedometer_and_Compass [https://github.com/ningh98/Geolocation_based_Speedometer_and_Compass]  
 22. Follow_along_links [https://github.com/ningh98/Follow_along_links]  
 23. Speech_Synthesis [https://github.com/ningh98/Speech_Synthesis]  
-24. sticky_nav [https://github.com/ningh98/sticky_nav]
+24. sticky_nav [https://github.com/ningh98/sticky_nav]  
+25. Event-Capture-Propagation-Bubbling-and-Once [https://github.com/ningh98/Event-Capture-Propagation-Bubbling-and-Once]
 
 ## Table of contents
 
