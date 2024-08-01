@@ -26,7 +26,9 @@ This is a 30-days javascript grinding
 23. Speech_Synthesis [https://github.com/ningh98/Speech_Synthesis]  
 24. sticky_nav [https://github.com/ningh98/sticky_nav]  
 25. Event-Capture-Propagation-Bubbling-and-Once [https://github.com/ningh98/Event-Capture-Propagation-Bubbling-and-Once]  
-26. Stripe-Follow-Along-Nav [https://github.com/ningh98/Stripe-Follow-Along-Nav]
+26. Stripe-Follow-Along-Nav [https://github.com/ningh98/Stripe-Follow-Along-Nav]  
+27. Click-and-Drag [https://github.com/ningh98/Click-and-Drag]  
+28. Video-speed-controller [https://github.com/ningh98/Video-speed-controller]
 
 ## Table of contents
 
