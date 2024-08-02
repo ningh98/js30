@@ -28,7 +28,8 @@ This is a 30-days javascript grinding
 25. Event-Capture-Propagation-Bubbling-and-Once [https://github.com/ningh98/Event-Capture-Propagation-Bubbling-and-Once]  
 26. Stripe-Follow-Along-Nav [https://github.com/ningh98/Stripe-Follow-Along-Nav]  
 27. Click-and-Drag [https://github.com/ningh98/Click-and-Drag]  
-28. Video-speed-controller [https://github.com/ningh98/Video-speed-controller]
+28. Video-speed-controller [https://github.com/ningh98/Video-speed-controller]  
+29. Countdown_timer [https://github.com/ningh98/Countdown_timer]
 
 ## Table of contents
 
