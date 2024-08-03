@@ -29,7 +29,8 @@ This is a 30-days javascript grinding
 26. Stripe-Follow-Along-Nav [https://github.com/ningh98/Stripe-Follow-Along-Nav]  
 27. Click-and-Drag [https://github.com/ningh98/Click-and-Drag]  
 28. Video-speed-controller [https://github.com/ningh98/Video-speed-controller]  
-29. Countdown_timer [https://github.com/ningh98/Countdown_timer]
+29. Countdown_timer [https://github.com/ningh98/Countdown_timer]  
+30. Whack-a-mole [https://github.com/ningh98/Whack-a-mole]
 
 ## Table of contents
 
